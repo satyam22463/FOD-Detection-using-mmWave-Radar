@@ -1,5 +1,4 @@
-% Ayush Shukla
-% RA @ IIITD
+
 % 2Tx-4Rx processing 
 % Most recently updated on - 20/08/2025
 % 11:22
